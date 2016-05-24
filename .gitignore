@@ -1,0 +1,31 @@
+target/
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse files
+.project
+.classpath
+.settings
+
+# Idea files
+*.ipr
+*.iws
+*.patch
+# Mvn target
+target/
+
+# vim swap files
+*.swp
+
+*-repo
+
+# IDE files #
+*.ipr
+*.iws
+*.iml
+target/
+.idea
